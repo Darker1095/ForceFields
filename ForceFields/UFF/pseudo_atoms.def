@@ -1,5 +1,5 @@
 #number of pseudo atoms
-120
+123
 #type      print   as    chem  oxidation   mass        charge   polarization B-factor radii  connectivity anisotropic anisotropic-type   tinker-type
 C          yes      C     C     0         12.01070    0.0      0.0          1.0      0.770  0            0           relative           0
 O          yes      O     O     0         15.99940    0.0      0.0          1.0      0.730  0            0           relative           0
