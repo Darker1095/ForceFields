@@ -95,6 +95,10 @@ Es         yes     Es    Es     0        252.08290    0.0      0.0          1.0 
 Fm         yes     Fm    Fm     0        257.09510    0.0      0.0          1.0      2.000  0            0           relative           0
 Md         yes     Md    Md     0        258.09510    0.0      0.0          1.0      2.000  0            0           relative           0
 No         yes     No    No     0        259.10090    0.0      0.0          1.0      2.000  0            0           relative           0
+Li         yes     Li    Li     0          6.94000    0.0      0.0          1.0      2.000  0            0           relative           0
+I          yes     I     I      0        126.90000    0.0      0.0          1.0      2.000  0            0           relative           0
+Gd         yes     Li    Li     0        157.25000    0.0      0.0          1.0      2.000  0            0           relative           0
+
 He         yes     He    He    0           4.00260    0.0      0.0          1.0      1.0    0            0           relative           0
 O_co2      yes     O     O     0          15.99940   -0.35     0.0          1.0      0.68   0            0           relative           0
 C_co2      yes     C     C     0          12.01070    0.70     0.0          1.0      0.720  0            0           relative           0
