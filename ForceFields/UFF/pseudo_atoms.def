@@ -5,7 +5,7 @@ C          yes      C     C     0         12.01070    0.0      0.0          1.0 
 O          yes      O     O     0         15.99940    0.0      0.0          1.0      0.730  0            0           relative           0
 H          yes      H     H     0          1.00794    0.0      0.0          1.0      0.320  0            0           relative           0
 N          yes      N     N     0         14.00670    0.0      0.0          1.0      0.750  0            0           relative           0
-F          yes      F     F     0         18.99840    0.0      0.0          1.0      0.720  0            0           relative           0
+F          yes      F     F     0         18.99840    0.0      0.0          1.0      0.710  0            0           relative           0
 Na         yes     Na    Na     0         22.98977    0.0      0.0          1.0      1.540  0            0           relative           0
 Mg         yes     Mg    Mg     0         24.30500    0.0      0.0          1.0      1.360  0            0           relative           0
 Al         yes     Al    Al     0         26.98154    0.0      0.0          1.0      1.180  0            0           relative           0
@@ -95,10 +95,9 @@ Es         yes     Es    Es     0        252.08290    0.0      0.0          1.0 
 Fm         yes     Fm    Fm     0        257.09510    0.0      0.0          1.0      2.000  0            0           relative           0
 Md         yes     Md    Md     0        258.09510    0.0      0.0          1.0      2.000  0            0           relative           0
 No         yes     No    No     0        259.10090    0.0      0.0          1.0      2.000  0            0           relative           0
-Li         yes     Li    Li     0          6.94000    0.0      0.0          1.0      2.000  0            0           relative           0
-I          yes     I     I      0        126.90000    0.0      0.0          1.0      2.000  0            0           relative           0
-Gd         yes     Gd    Gd     0        157.25000    0.0      0.0          1.0      2.000  0            0           relative           0
-
+Li         yes     Li    Li     0          6.94000    0.0      0.0          1.0      1.230  0            0           relative           0
+I          yes     I     I      0        126.90000    0.0      0.0          1.0      1.330  0            0           relative           0
+Gd         yes     Gd    Gd     0        157.25000    0.0      0.0          1.0      1.620  0            0           relative           0
 He         yes     He    He    0           4.00260    0.0      0.0          1.0      1.0    0            0           relative           0
 O_co2      yes     O     O     0          15.99940   -0.35     0.0          1.0      0.68   0            0           relative           0
 C_co2      yes     C     C     0          12.01070    0.70     0.0          1.0      0.720  0            0           relative           0
