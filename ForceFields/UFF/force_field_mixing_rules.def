@@ -3,7 +3,7 @@ shifted
 # general rule tailcorrections
 no
 # number of defined interactions
-120
+123
 # type,        interaction,  epsilon [K],  sigma [A] IMPORTANT: define shortest matches first, so that more specific ones overwrites these
 C_             lennard-jones    52.83806  3.43085      // UFF A.K. Rappé et al., J. Am. Chem. Soc. 1992, 114, 10024-10035. 
 O_             lennard-jones    30.19317  3.11815      //
@@ -98,7 +98,10 @@ Cf_            lennard-jones     6.54185  2.95155      //
 Es_            lennard-jones     6.03863  2.93907      // 
 Fm_            lennard-jones     6.03863  2.92749      // 
 Md_            lennard-jones     5.53542  2.91680      // 
-No_            lennard-jones     5.53542  2.89364      // 
+No_            lennard-jones     5.53542  2.89364      //
+Li_            lennard-jones    12.58049  2.18359      //
+I_             lennard-jones   170.59144  4.00904      //
+Fr_            lennard-jones   110.70831  3.68921      //
 He             lennard-jones    10.9000   2.64000      // J.O. Hirschfelder et al., Molecular Theory of Gases and Liquids, Wiley, New York, 1954, p. 1114.
 O_co2          lennard-jones    79.0000   3.05000      // J. Potoff, and J.I. Siepmann, AIChE J. 47, 1676-1682 (2001).
 C_co2          lennard-jones    27.0000   2.80000      // idem
